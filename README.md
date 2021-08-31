@@ -62,10 +62,10 @@ This function requires no URL parameters
 This function requires the following body parameters
 
     {
-    "APIKey", "20e29ea0-66c8-4fb1-b1f7-7f53651d53ae",
-    "PhoneNumber" : 218916222569,
+    "APIKey", "80e29ea0-67c8-4fb1-b4f7-7f53611d59ac",
+    "PhoneNumber" : 218916222566,
     "msg" : "This is a test message",
-    "sender_name" : "Altaher"
+    "sender_name" : "Umbrella Developer"
     }
 
 where `APIKey` is a unique string associated to each account and will be provided along with the username and password.
